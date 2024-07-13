@@ -23,7 +23,7 @@ The Item Management System is a web application built with Laravel that allows u
 ## Requirements
 - PHP 8.0 or higher
 - Composer
-- Laravel 8.x or higher
+- Laravel 11
 - MySQL
 
 ## Installation
